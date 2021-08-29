@@ -113,6 +113,13 @@
   margin-left: 0.5rem;
 }
 
+.buttons  {
+  width: 100;
+  border-width: 15;
+  margin:100;
+  border-color: 'red';
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
